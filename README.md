@@ -13,7 +13,11 @@ Here are the technologies and tools I work with:
 - ⚙️ **Tools & Platforms:** Git, GitHub, Vercel  
 - 🤖 **Special Interests:** Computer Vision (OpenCV, image processing basics, and more...)
 
-## 📫 Connect with Me
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/zeinab-ali-a2b89b204/)
+
+## 📫 Contact Me
+
+- 📧 Email: [safaali8118@gmail.com](mailto:safaali8118@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/zeinab-ali-a2b89b204](https://www.linkedin.com/in/zeinab-ali-a2b89b204/)
+
 
 Feel free to reach out for collaborations, coding talk, or just to say hi! 😊
